@@ -1,0 +1,6 @@
+﻿  MainSource.cpp
+MainSource.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MainSource.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CLI_ProcessDetectionModule.vcxproj -> c:\users\ashleigh\documents\visual studio 2015\Projects\CLI_ProcessDetectionModule\Debug\CLI_ProcessDetectionModule.exe
+  CLI_ProcessDetectionModule.vcxproj -> c:\users\ashleigh\documents\visual studio 2015\Projects\CLI_ProcessDetectionModule\Debug\CLI_ProcessDetectionModule.pdb (Partial PDB)
