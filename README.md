@@ -11,13 +11,4 @@ The project/development status of this project is complete.
 If you want the .Net libarys to work with the CLI C++, You need to add a reference to the project. The reference you need to add is "System" which allows the .Net libarys to be found in the project file. ALso its best if you use a CLR project which is found in visual studio to lower compile and linking errors.
 
 # Author/Credits:
-Ashleigh Day - (Xynous)
-
-Any usage of my project ideas or source code, please give the correct credits and references.
-
-
-
-
-
-
-
+Mr. Ashleigh Day
